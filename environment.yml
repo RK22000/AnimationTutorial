@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - ipympl
+  - matplotlib
+  - numpy
+  - python
+  - ffmpeg
