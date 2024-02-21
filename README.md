@@ -9,3 +9,5 @@ This repo is meant to be an example of how to make and export animations using m
 ```sh
 git clone https://github.com/RK22000/AnimationTutorial.git
 ```
+
+2. Create the 
