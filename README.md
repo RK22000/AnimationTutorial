@@ -1,4 +1,4 @@
-[![Binder Logo](pics/badge_logo.svg)](https://mybinder.org/v2/gh/RK22000/AnimationTutorial/HEAD)
+[![Binder Logo](pics/badge_logo.svg)](https://mybinder.org/v2/gh/RK22000/AnimationTutorial/HEAD?labpath=tutorial.ipynb)
 
 # Animation Tutorial
 
